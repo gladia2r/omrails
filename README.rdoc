@@ -1,3 +1,11 @@
+# One Month Rails
+
+This is the sample applicaton for
+[*One Month Rails: Teach Yourself to Code*]
+
+by [Lehel Csiki]
+
+
 == Welcome to Rails
 
 Rails is a web-application framework that includes everything needed to create
