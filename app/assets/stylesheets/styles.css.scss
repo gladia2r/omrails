@@ -1,6 +1,6 @@
 $navbarBackgroundHighlight: white;
-$navbarBackground: lightgray;
-$btnPrimaryBackground: purple;
+$navbarBackground: white;
+$btnPrimaryBackground: green;
 
 @import 'bootstrap';
 body{
@@ -10,7 +10,7 @@ body{
 @import 'bootstrap-responsive';
 
 .navbar-inner{
-    @include box-shadow(none !important);
+//    @include box-shadow(none !important);
     border: 0;
 }
 
@@ -18,6 +18,6 @@ body{
     margin-top: 50px;
     color: $grayLight;
     a{
-        color: $gray;
+        color: $blue;
     }
 }
